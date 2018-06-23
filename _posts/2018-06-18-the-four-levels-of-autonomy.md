@@ -1,5 +1,4 @@
 ---
-layout: single
 title:  "The Four Levels of Autonomy"
 date:   2018-06-18
 ---
