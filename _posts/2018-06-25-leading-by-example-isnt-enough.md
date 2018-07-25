@@ -45,3 +45,5 @@ Going back to the earlier example, imagine if Taylor had said something like thi
 > "The next time there's a production outage, I want you to focus on making fast decisions and communicating them concisely."
 
 Now Taylor has framed their behavior in a whole new light. The extraneous details can be ignored and Taylor can provide quality followup feedback as someone does or does not emulate this behavior.
+
+What do you think though? Have you found other ways to make leading by example work for you? I’d love to hear them if so.
