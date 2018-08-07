@@ -9,7 +9,7 @@ Friends know that I endlessly talk about team values. They've made a huge differ
 
 Many organizations capture their values in fancy signage and slide decks. Typically they become something of a joke, a bar bet to see if anyone can name more than 1 or 2. How do you make these values stick in a way that helps new hires understand what it means to be successful **in your team** though?
 
-Your onboarding process is the ideal way to start that process.
+Your onboarding process is the ideal way to start that journey.
 
 ## Values-Based Onboarding in Action
 
