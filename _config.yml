@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Scott Parker"
   avatar           : /assets/images/headshot.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Engineering leader & people enthusiast. I usually write about challenges at the intersection between technology and people. <span class='further-details'><br />I have been an engineering leader at Groupon, Braintree, and an obscure fashion startup before joining Reverb as CTO.<br /><br />I also make decent pies.</span>"
+  bio              : "Engineering leader & people enthusiast. I usually write about challenges at the intersection between technology and people. <span class='further-details'><br />I have been an engineering leader at Groupon, Braintree, Reverb, and an obscure fashion startup. These days I'm the VP of Engineering at <a href='https://signal.co'>Signal</a>..<br /><br />I also make decent pies.</span>"
   location         : "Chicago"
   email            :
   uri              :
